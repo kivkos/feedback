@@ -4,7 +4,7 @@ Početni izgled zaslona za unos povratne informacije:
 
 ![slika1](https://github.com/kivkos/feedback/assets/127855349/65b835e9-6c35-4a1b-b3c5-fc06f373e024)
 
-Kada se u polja za unos imena, kontakta ili emaila unesu ispravni podaci, TextInput komponenta poprimit će tamnozeleni obrub. Ukoliko su sva tri podatka ispravno unesena, tipka Submit će također poprimiti tamnozelenu boju. 
+Kada se u polja za unos imena, kontakta (može sadržavati samo brojeve i plus) ili emaila (mala slova, mora sadržavati @ i barem jednu točku) unesu ispravni podaci, TextInput komponenta poprimit će tamnozeleni obrub. Ukoliko su sva tri podatka ispravno unesena, tipka Submit će također poprimiti tamnozelenu boju. 
 
 ![slika2](https://github.com/kivkos/feedback/assets/127855349/0a21f18b-13b4-45f2-ab9c-835f92eeb2c4)
 
