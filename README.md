@@ -14,4 +14,4 @@ Kada se pritisne Sumbit na sekundu će se prikazati "kružić učitavanja" i nak
 ![3](https://github.com/kivkos/feedback/assets/127855349/d3cb53e4-a322-432d-850f-beda489ce67f)
 
 
-Za rating je korišten gotovi '@react-native-community/slider' slider. Za prikaz emotikona korištene su dvije slike - jedna u boji i druga u sivim tonovima.
+Za rating je korišten gotovi '@react-native-community/slider' slider. Za prikaz emotikona korištene su dvije slike - jedna u boji i druga u sivim tonovima. Za komentar nije implementirana nikakva validacija pod pretpostavkom da taj podatak nije obvezan.
