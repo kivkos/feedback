@@ -1,11 +1,14 @@
-# Sample Snack app
+# Zadatak Feedback
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Početni izgled zaslona za unos povratne informacije:
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+![slika1](https://github.com/kivkos/feedback/assets/127855349/65b835e9-6c35-4a1b-b3c5-fc06f373e024)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Kada se u polja za unos imena, kontakta ili emaila unesu ispravni podaci, TextInput komponenta poprimit će tamnozeleni obrub. Ukoliko su sva tri podatka ispravno unesena, tipka Submit će također poprimiti tamnozelenu boju. 
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+![slika2](https://github.com/kivkos/feedback/assets/127855349/0a21f18b-13b4-45f2-ab9c-835f92eeb2c4)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Kada se pritisne Sumbit na sekundu će se prikazati "kružić učitavanja" i nakon toga će se prikazati skočni prozor s porukom da je feedback primljen.
+
+
+![3](https://github.com/kivkos/feedback/assets/127855349/d3cb53e4-a322-432d-850f-beda489ce67f)
